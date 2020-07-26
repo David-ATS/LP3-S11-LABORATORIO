@@ -22,7 +22,7 @@
             <tbody id="subtitulo1" align="center" >
                 <tr>
                     <td><font size="3"><a href="DatosPersona.jsp">Datos Persona</a></font></td>
-                    
+                    <td><font size="3"><a href="DatosArea.jsp">Datos Area</a></font></td>
                 </tr>
                 </tbody>
         </table>
